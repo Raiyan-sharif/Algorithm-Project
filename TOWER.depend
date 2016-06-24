@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443703096 source:d:\algo\tower\main.cpp
+	<iostream>
+	<stdio.h>
+
